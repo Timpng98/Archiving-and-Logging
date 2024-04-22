@@ -1,5 +1,5 @@
 # Archiving-and-Logging
-Using tar to extract files, as well as cron to create, manage, and automate jobs
+Using tar to create backups, extract files, as well as cron to create, manage, and automate jobs
 
 Commands used:
 1. tar
